@@ -1,0 +1,323 @@
+.head {
+  width: 100%;
+  height: 50px;
+  background-color: #0d1430;
+  margin: 0 auto;
+}
+.anker1 {
+  font-size: 20px;
+  color: green;
+}
+nav a {
+  text-decoration: none;
+}
+.blog1 {
+  margin: 20px;
+  font-size: 20px;
+  color: white;
+}
+.center {
+  text-align: center;
+  padding: 13px;
+}
+.text {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 34px;
+  font-weight: 500;
+  margin-top: 50px;
+}
+.h2tag {
+  font-size: 20px;
+  text-align: center;
+  margin: 40px 0;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #99d8ca;
+  margin: 50px auto;
+  border: 20px solid #5873e2;
+  outline: 10px solid black;
+  box-shadow: -1px -1px 0 30px #90ffa9;
+  border-radius: 3px;
+}
+.circle {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #99d8ca;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+.marker-circle {
+  text-align: center;
+  margin: 0 16px;
+}
+.padding {
+  background-color: black;
+  margin-right: 8px;
+}
+.margin {
+  background-color: #90ffa9;
+  margin-right: 8px;
+}
+.border {
+  background-color: #5873e2;
+  margin-right: 8px;
+}
+.marker-container {
+  display: inline-block;
+  margin: 0 16px;
+}
+hr {
+  border: 1px dashed grey;
+  width: 700px;
+  margin: 32px auto;
+}
+
+.big {
+  width: 660px;
+  border: 2px solid;
+  margin: 0 auto;
+  font-size: 0;
+}
+.small {
+  width: 200px;
+  height: 180px;
+  margin: 10px;
+  background-color: grey;
+  display: inline-block;
+}
+.cont {
+  width: 200px;
+  height: 180px;
+  margin: 10px;
+  background-color: grey;
+  display: inline-block;
+  border: 2px solid black;
+  box-sizing: border-box;
+}
+
+/* blog custome style */
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+/* custom style */
+
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.head {
+  width: 100%;
+  height: 50px;
+  background-color: #0d1430;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.anker {
+  color: white;
+  font-size: 20px;
+}
+.blog {
+  color: green;
+  margin: 20px;
+  font-size: 20px;
+}
+nav a {
+  text-decoration: none;
+}
+.center {
+  text-align: center;
+  padding: 13px;
+}
+.btn {
+  background-color: green;
+  color: white;
+  border: 1px solid green;
+  width: 100px;
+  height: 30px;
+  border-radius: 30px;
+  margin-top: 30px;
+}
+
+.atag {
+  color: green;
+  margin-top: 10px;
+}
+
+.ptag {
+  margin-bottom: 20px;
+}
+
+/* new custome style */
+
+.div {
+  width: 400px;
+  margin: 10px;
+  display: inline-block;
+  vertical-align: top;
+}
+.article-1 {
+  width: 100%;
+  display: inline-block;
+  margin: 0 auto;
+}
+.section-1 {
+  display: inline-block;
+}
+.div_1 {
+  width: 400px;
+  margin: 10px 10px;
+}
+img {
+  width: 400px;
+  height: 230px;
+  margin: 10px;
+}
+h2 {
+  font-size: 24px;
+  vertical-align: bottom;
+  color: #0d1430;
+  font-style: bold;
+  font-weight: 700;
+}
+p {
+  margin: 10px 0;
+}
+.container {
+  width: 870px;
+  margin: 0 auto;
+}
